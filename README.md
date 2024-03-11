@@ -29,8 +29,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='./wishlish.gif' title='Video Walkthrough of app' width='' alt='Video Walkthrough of app' />
 
+<img src='./wishlish2.gif' title='Video Walkthrough of app' width='' alt='Video Walkthrough of app' />
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
