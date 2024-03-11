@@ -4,19 +4,19 @@ Submitted by: **Subham Bhattacharya**
 
 **Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
-- [ ] **User can see their list of items based on previously inputted items**
+- [x] **User can add an item to their wishlist**
+- [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
 - [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
+- [x] User can delete an item by long pressing on the item
 - [ ] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
@@ -38,7 +38,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The week I was doing this project I had multiple midterms due to which I couldn't make the project as I would have wanted to althrough all the required features and a sketch feature is implemented, I also wanted to add a theme make the color scheme similar to Amazon.com also a small bug I could not fix is when the user is typing stuff in the editText views are covered by the keyboard.
 
 ## License
 
