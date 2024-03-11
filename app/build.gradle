@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'edu.iastate.shubham8.wishlist'
-    compileSdk 32
+    compileSdk 34
 
     defaultConfig {
         applicationId "edu.iastate.shubham8.wishlist"
         minSdk 30
-        targetSdk 32
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
